@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Project&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
+| Safe-X |
+|----------------------|
+|<a href="https://safe-x-2ccc0.web.app/"><img src="https://github.com/yonghun16/safe-x/blob/main/previews/preview.jpg?raw=true" width=825px /></a>|
+|<ul><li>Safe-X - 건설 현장 위험 요소 제보 플랫폼</li><li>사진 기반 위험 요소 등록 및 공유</li><li>최신순 · 인기순 게시글 조회</li><li>위험도(낮음 · 보통 · 높음) 분류</li><li>좋아요, 댓글, 게시글 저장 기능</li><li>키워드 및 지역 검색, 최근 검색어</li><li>회원가입, 로그인, 마이페이지</li><li>Firebase Authentication, Firestore, Storage 연동</li><li><a href="https://github.com/yonghun16/safe-x">Github page</a></li><li><a href="https://github.com/google-gemini/gemini-cli"><img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat&logo=google-gemini&logoColor=white" /></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /></a> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></a> <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /></a> <a href="https://tanstack.com/query"><img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white" /></a> <a href="https://zustand-demo.pmnd.rs/"><img src="https://img.shields.io/badge/Zustand-7B5E57?style=flat" /></a> <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /></a></li></ul>|
 
 | 판타지 샵 |
 |----------------------|
@@ -17,13 +21,14 @@
 |<a href="https://vanillajs-movie-app-flame.vercel.app/"><img src="https://github.com/yonghun16/vanillajs-movie-app/blob/main/preview.jpg?raw=true" width=825px /></a>|
 |<ul><li>Vanilla JS Movie App</li><li>Component, Routing, and Store based on Vanilla JavaScript</li><li>loading Animation, Skeleton UI</li><li>API key hide</li><li>Single-page, 반응형</li><li>[Github page](https://github.com/yonghun16/vanillajs-movie-app)</li><li> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
 
+
+
+<!--
+
 | 어른패드 Clone |
 |-----------------------|
 |<a href="https://yonghun16.github.io/apple-ipad-app"><img src="https://raw.githubusercontent.com/yonghun16/apple-ipad-app/main/ipad.jpg" width=825px /></a>|
 |<ul><li>어른패드 website clone</li><li>Single-page, 반응형</li><li>[Github page](https://github.com/yonghun16/apple-ipad-app)</li><li> <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>   <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> </li></ul>|
-
-
-<!--
 
 | 벅스스타 |
 |----------------------|
