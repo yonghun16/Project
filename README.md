@@ -3,7 +3,7 @@
 
 | Goban |
 |-----------------------|
-|<a href="배포URL"><img src="https://raw.githubusercontent.com/yonghun16/vim-goban/refs/heads/main/previews/preview.jpg" width=825px /></a>|
+|<a href="https://pypi.org/project/vim-goban/"><img src="https://raw.githubusercontent.com/yonghun16/vim-goban/refs/heads/main/previews/preview.jpg" width=825px /></a>|
 |<ul><li>Goban - 터미널 환경에서 즐기는 바둑 게임</li><li>Python과 GnuGo 엔진을 활용한 CLI 기반 바둑 구현</li><li>터미널 바둑판 출력 및 사용자 착수 입력 처리</li><li>GnuGo를 활용한 바둑 규칙 검증 및 게임 진행</li><li>돌 배치, 착수 가능 위치 검증, 승패 판정 구현</li><li>Single-player, AI 대국 지원</li><li>[Github](https://github.com/yonghun16/vim-goban)</li><li><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /></a> <a href="https://www.gnu.org/software/gnugo/"><img src="https://img.shields.io/badge/GnuGo-000000?style=flat&logo=GNU&logoColor=white" /></a></li></ul>|
 
 
