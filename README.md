@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=Project&fontSize=45&animation=fadeIn&fontAlignY=38&desc=yonghun16&descAlignY=55&descAlign=85)
 
+
+| Goban |
+|-----------------------|
+|<a href="배포URL"><img src="https://raw.githubusercontent.com/yonghun16/vim-goban/refs/heads/main/previews/preview.jpg" width=825px /></a>|
+|<ul><li>Goban - 터미널 환경에서 즐기는 바둑 게임</li><li>Python과 GnuGo 엔진을 활용한 CLI 기반 바둑 구현</li><li>터미널 바둑판 출력 및 사용자 착수 입력 처리</li><li>GnuGo를 활용한 바둑 규칙 검증 및 게임 진행</li><li>돌 배치, 착수 가능 위치 검증, 승패 판정 구현</li><li>Single-player, AI 대국 지원</li><li>[Github](https://github.com/yonghun16/vim-goban)</li><li><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /></a> <a href="https://www.gnu.org/software/gnugo/"><img src="https://img.shields.io/badge/GnuGo-000000?style=flat&logo=GNU&logoColor=white" /></a></li></ul>|
+
+
 | Safe-X |
 |----------------------|
 |<a href="https://safe-x-2ccc0.web.app/"><img src="https://github.com/yonghun16/safe-x/blob/main/previews/preview.jpg?raw=true" width=825px /></a>|
@@ -24,6 +31,28 @@
 
 
 <!--
+
+| 워드서치 |
+|-----------------------|
+|<a href="https://elaborate-frangipane-337dd8.netlify.app/"><img src="https://raw.githubusercontent.com/yonghun16/wordsearch/refs/heads/main/app.png" width=825px /></a>|
+|<ul><li>워드 서치 - 격자판(grid) 속에 숨겨진 단어들을 찾아내는 퍼즐 게임</li><li>랜덤 격자 생성</li><li>단어 힌트 기능</li><li>테마 변경</li><li>Single-page, 반응형</li><li>[Github](https://github.com/yonghun16/wordsearch)</li><li><a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/netlify-1EC0B1?style=flat&logo=Netlify&logoColor=white" /></a></li></ul>|
+
+| Pig Game Clone |
+|-----------------------|
+|<a href="https://pig-game-ten-neon.vercel.app/"><img src="https://github.com/yonghun16/pig_game/blob/main/preview.jpg?raw=true" width=825px /></a>|
+|<ul><li>번갈아 가면서 주사위를 던지는 게임입니다. 먼저 누적 점수 100점을 만들면 이깁니다.<br>(주사위가 1점이 나오면 현재 점수를 초기화 후 턴 변경)</li><li>Single-page</li><li>[Github](https://github.com/yonghun16/pig_game)</li><li> <a href="https://pugjs.org"><img src="https://img.shields.io/badge/Pug-A86454?style=flat&logo=pug&logoColor=white" /></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>  <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a></li></ul>|
+
+
+| 워들 Clone |
+|-----------------------|
+|<a href="https://yonghun16.github.io/wordle/"><img src="https://raw.githubusercontent.com/yonghun16/wordle/refs/heads/main/wordle.jpg" width=825px /></a>|
+|<ul><li>6번의 기회로 5글자 단어를 추측하는 게임</li><li>Single-page</li><li>[Github](https://github.com/yonghun16/wordle)</li><li> <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a></li></ul>|
+
+
+| Tic-Tac-Toe Clone |
+|-----------------------|
+|<a href="https://tictactoe-nine-sandy.vercel.app/"><img src="https://github.com/yonghun16/tictactoe/blob/main/preview.jpg?raw=true" width=825px /></a>|
+|<ul><li>Tic-Tac-Toe(틱택토)는 두 명이 번갈아 가며 3×3 격자에 O 또는 X를 표시하여가로, 세로, 대각선 중 <br />한 줄을 먼저 완성하는 사람이 승리하는 게임입니다.</li><li>Single-page</li><li>[Github page](https://github.com/yonghun16/tictactoe/)</li><li> <a href="https://www.ecma-international.org/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-58B4CD?style=flat&logo=React&logoColor=white" /></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" /></a>   <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /></a></li></ul>|
 
 | 어른패드 Clone |
 |-----------------------|
